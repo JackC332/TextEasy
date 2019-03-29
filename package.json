@@ -1,0 +1,22 @@
+{
+  "name": "texteasy",
+  "version": "1.0.0",
+  "description": "Text analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackC332/TextEasy.git"
+  },
+  "author": "JD JC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackC332/TextEasy/issues"
+  },
+  "homepage": "https://github.com/JackC332/TextEasy#readme",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
